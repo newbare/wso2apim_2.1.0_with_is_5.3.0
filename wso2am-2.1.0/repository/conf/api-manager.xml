@@ -202,7 +202,7 @@
     -->
     <APIKeyValidator>
         <!-- Server URL of the API key manager -->
-        <ServerURL>https://localhost:9446/services/ </ServerURL>
+        <ServerURL>https://localhost:9446/services/</ServerURL>
 
         <!-- Admin username for API key manager. -->
         <Username>${admin.username}</Username>

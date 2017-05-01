@@ -13,3 +13,34 @@
 [2017-05-01 11:21:11,674]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add Role | Target : apisubscriber | Data : { Users : [] Permissions : [org.wso2.carbon.user.api.Permission@11a9e4b2, org.wso2.carbon.user.api.Permission@4ff0aefe] } | Result : Success  
 [2017-05-01 11:46:14,160]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:46:14,147+0530] 
 [2017-05-01 11:48:36,603]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:48:36,601+0530] 
+[2017-05-01 12:20:15,795]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:20:15,794+0530] 
+[2017-05-01 12:20:30,167]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : hasinitg | Data : { Roles : } | Result : Success  
+[2017-05-01 12:23:22,735]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Delete User | Target : hasinitg | Data : {  } | Result : Success  
+[2017-05-01 12:23:35,934]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : hasinitg | Data : { Roles : } | Result : Success  
+[2017-05-01 12:33:37,640]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hsinitg[-1]' at [2017-05-01 12:33:37,638+0530] 
+[2017-05-01 12:33:46,496]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 12:33:46,495+0530] 
+[2017-05-01 12:33:50,180]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 12:33:50,179+0530] 
+[2017-05-01 12:33:56,279]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:33:56,277+0530] 
+[2017-05-01 12:34:47,530]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:34:47,529+0530] 
+[2017-05-01 13:03:43,958]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:03:43,944+0530] 
+[2017-05-01 14:02:04,125]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:04,124+0530] 
+[2017-05-01 14:02:23,479]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:23,479+0530] 
+[2017-05-01 15:21:53,651]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:21:53,649+0530] 
+[2017-05-01 15:25:27,060]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:25:27,060+0530] 
+[2017-05-01 15:47:54,946]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:47:54,945+0530] 
+[2017-05-01 16:15:52,452]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:15:52,450+0530] 
+[2017-05-01 16:16:09,960]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:16:09,960+0530] 
+[2017-05-01 16:16:10,078]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_K_SANDBOX } | Result : Success  
+[2017-05-01 16:16:10,105]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { admin_K_SANDBOX } | Result : Success  
+[2017-05-01 16:16:10,505]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { admin_K_SANDBOX } | Result : Success  
+[2017-05-01 16:19:04,295]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_mobilepay_PRODUCTION } | Result : Success  
+[2017-05-01 16:19:04,310]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 3 | Data : { admin_mobilepay_PRODUCTION } | Result : Success  
+[2017-05-01 16:19:04,321]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 3 | Data : { admin_mobilepay_PRODUCTION } | Result : Success  
+[2017-05-01 16:21:05,222]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:21:05,222+0530] 
+[2017-05-01 16:25:31,558]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:25:31,558+0530] 
+[2017-05-01 16:26:57,495]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_mobilepay_SANDBOX } | Result : Success  
+[2017-05-01 16:26:57,510]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { admin_mobilepay_SANDBOX } | Result : Success  
+[2017-05-01 16:26:57,521]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { admin_mobilepay_SANDBOX } | Result : Success  
+[2017-05-01 16:38:18,100]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_pay_PRODUCTION } | Result : Success  
+[2017-05-01 16:38:18,113]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 5 | Data : { admin_pay_PRODUCTION } | Result : Success  
+[2017-05-01 16:38:18,124]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 5 | Data : { admin_pay_PRODUCTION } | Result : Success  

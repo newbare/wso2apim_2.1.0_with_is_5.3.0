@@ -24,3 +24,142 @@
 [2017-05-01 00:55:07,500]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:07,500+0530] 
 [2017-05-01 00:59:26,603]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:59:26,603+0530] from IP address  
 [2017-05-01 11:46:30,554]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:46:30,553+0530] 
+[2017-05-01 12:24:18,241]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:24:18,239+0530] 
+[2017-05-01 12:34:59,260]  INFO -  {"performedBy":"admin","action":"created","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"PizzaShackAPI\",\"context\":\"\\\/pizzashack\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 12:35:00,378]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:00,377+0530] 
+[2017-05-01 12:35:01,226]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"PizzaShackAPI\",\"context\":\"\\\/pizzashack\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 12:35:01,300]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:01,299+0530] 
+[2017-05-01 12:35:01,437]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:01,436+0530] 
+[2017-05-01 12:35:02,210]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:02,209+0530] 
+[2017-05-01 12:35:02,660]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:02,657+0530] 
+[2017-05-01 12:35:06,478]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:06,477+0530] 
+[2017-05-01 12:35:07,035]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"PizzaShackAPI\",\"context\":\"\\\/pizzashack\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 12:35:07,072]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:07,072+0530] 
+[2017-05-01 12:35:07,173]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:07,172+0530] 
+[2017-05-01 12:35:07,404]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:07,403+0530] 
+[2017-05-01 12:35:07,966]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:07,964+0530] 
+[2017-05-01 12:35:08,301]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:08,301+0530] 
+[2017-05-01 12:35:08,822]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"PizzaShackAPI\",\"context\":\"\\\/pizzashack\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 12:35:08,868]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:08,867+0530] 
+[2017-05-01 12:35:09,068]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:09,067+0530] 
+[2017-05-01 12:35:09,411]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:09,411+0530] 
+[2017-05-01 12:35:09,816]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:09,815+0530] 
+[2017-05-01 12:35:10,082]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:10,082+0530] 
+[2017-05-01 12:35:10,326]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:35:10,324+0530] 
+[2017-05-01 12:35:47,419]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Unlimited\",\"provider\":\"admin\",\"api_name\":\"PizzaShackAPI\",\"application_id\":1}"} 
+[2017-05-01 13:02:32,780]  INFO -  {"performedBy":"admin","action":"created","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"DirectPay\",\"context\":\"\\\/directpay\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:02:33,040]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:02:33,040+0530] 
+[2017-05-01 13:02:33,503]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"DirectPay\",\"context\":\"\\\/directpay\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:02:33,549]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:02:33,549+0530] 
+[2017-05-01 13:02:52,312]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:02:52,312+0530] 
+[2017-05-01 13:02:52,869]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"DirectPay\",\"context\":\"\\\/directpay\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:02:52,903]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:02:52,902+0530] 
+[2017-05-01 13:03:01,413]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:03:01,413+0530] 
+[2017-05-01 13:03:01,866]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"DirectPay\",\"context\":\"\\\/directpay\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:03:01,905]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:03:01,905+0530] 
+[2017-05-01 13:03:02,037]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:03:02,036+0530] 
+[2017-05-01 13:03:02,239]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:03:02,239+0530] 
+[2017-05-01 13:05:15,643]  INFO -  {"performedBy":"admin","action":"created","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:05:15,810]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:05:15,809+0530] 
+[2017-05-01 13:05:16,110]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:05:16,135]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:05:16,135+0530] 
+[2017-05-01 13:05:51,392]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:05:51,392+0530] 
+[2017-05-01 13:05:52,078]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:05:52,121]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:05:52,121+0530] 
+[2017-05-01 13:06:04,129]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:06:04,129+0530] 
+[2017-05-01 13:06:04,943]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:06:04,968]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:06:04,967+0530] 
+[2017-05-01 13:06:05,109]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:06:05,108+0530] 
+[2017-05-01 13:06:05,228]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:06:05,228+0530] 
+[2017-05-01 13:06:58,506]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"mobilepay\",\"callbackURL\":null}"} 
+[2017-05-01 13:07:18,141]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"mobilepay\",\"tier\":\"Bronze\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":2}"} 
+[2017-05-01 13:11:07,556]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:07,556+0530] 
+[2017-05-01 13:11:07,854]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:11:07,873]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:07,873+0530] 
+[2017-05-01 13:11:07,927]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:07,926+0530] 
+[2017-05-01 13:11:08,056]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:08,055+0530] 
+[2017-05-01 13:11:08,294]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:08,294+0530] 
+[2017-05-01 13:11:48,246]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:48,245+0530] 
+[2017-05-01 13:11:48,831]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:11:48,857]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:48,856+0530] 
+[2017-05-01 13:11:48,943]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:48,943+0530] 
+[2017-05-01 13:11:49,078]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:49,077+0530] 
+[2017-05-01 13:11:49,310]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:11:49,309+0530] 
+[2017-05-01 13:12:44,945]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:12:44,944+0530] 
+[2017-05-01 13:12:45,335]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:12:45,364]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:12:45,363+0530] 
+[2017-05-01 13:12:45,431]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:12:45,431+0530] 
+[2017-05-01 13:12:45,555]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:12:45,555+0530] 
+[2017-05-01 13:12:45,776]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:12:45,775+0530] 
+[2017-05-01 13:14:10,628]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:14:10,628+0530] 
+[2017-05-01 13:14:10,961]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:14:10,992]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:14:10,991+0530] 
+[2017-05-01 13:14:11,080]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:14:11,080+0530] 
+[2017-05-01 13:14:11,204]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:14:11,204+0530] 
+[2017-05-01 13:14:11,505]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:14:11,505+0530] 
+[2017-05-01 13:20:21,081]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:20:21,081+0530] 
+[2017-05-01 13:20:21,489]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 13:20:21,508]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:20:21,508+0530] 
+[2017-05-01 13:20:21,558]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:20:21,558+0530] 
+[2017-05-01 13:20:21,673]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:20:21,673+0530] 
+[2017-05-01 13:20:21,909]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:20:21,909+0530] 
+[2017-05-01 14:02:08,127]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:08,127+0530] 
+[2017-05-01 14:02:08,581]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 14:02:08,613]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:08,613+0530] 
+[2017-05-01 14:02:08,697]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:08,697+0530] 
+[2017-05-01 14:02:08,817]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:08,816+0530] 
+[2017-05-01 14:02:09,128]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:09,127+0530] 
+[2017-05-01 14:16:26,074]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:16:26,074+0530] 
+[2017-05-01 14:16:26,370]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 14:16:26,398]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:16:26,398+0530] 
+[2017-05-01 14:16:26,467]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:16:26,467+0530] 
+[2017-05-01 14:16:26,602]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:16:26,601+0530] 
+[2017-05-01 14:16:26,835]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:16:26,835+0530] 
+[2017-05-01 15:22:30,063]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"mobilepay\",\"tier\":\"Unlimited\",\"provider\":\"admin\",\"api_name\":\"DirectPay\",\"application_id\":2}"} 
+[2017-05-01 15:41:19,894]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"TestApp\",\"callbackURL\":null}"} 
+[2017-05-01 15:41:36,051]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"TestApp\",\"tier\":\"Bronze\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":3}"} 
+[2017-05-01 15:46:35,853]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"TestApp\",\"tier\":\"Unlimited\",\"provider\":\"admin\",\"api_name\":\"PizzaShackAPI\",\"application_id\":3}"} 
+[2017-05-01 15:47:27,436]  INFO -  {"performedBy":"admin","action":"updated","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"TestApp\",\"callbackURL\":\"\",\"status\":\"APPROVED\"}"} 
+[2017-05-01 15:47:36,079]  INFO -  {"performedBy":"admin","action":"deleted","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"TestApp\",\"callbackURL\":\"\"}"} 
+[2017-05-01 15:48:00,705]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:00,705+0530] 
+[2017-05-01 15:48:01,055]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 15:48:01,080]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:01,080+0530] 
+[2017-05-01 15:48:01,144]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:01,144+0530] 
+[2017-05-01 15:48:01,250]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:01,250+0530] 
+[2017-05-01 15:48:01,364]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:01,363+0530] 
+[2017-05-01 15:48:11,310]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:11,309+0530] 
+[2017-05-01 15:48:11,849]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 15:48:11,899]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:11,898+0530] 
+[2017-05-01 15:48:11,944]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:11,944+0530] 
+[2017-05-01 15:48:12,044]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:12,044+0530] 
+[2017-05-01 15:48:12,247]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:12,247+0530] 
+[2017-05-01 15:48:27,519]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:27,518+0530] 
+[2017-05-01 15:48:27,806]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 15:48:27,826]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:27,826+0530] 
+[2017-05-01 15:48:27,871]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:27,871+0530] 
+[2017-05-01 15:48:27,969]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:27,969+0530] 
+[2017-05-01 15:48:28,225]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:48:28,224+0530] 
+[2017-05-01 15:48:54,527]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"T\",\"callbackURL\":null}"} 
+[2017-05-01 15:49:10,785]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"T\",\"tier\":\"Unlimited\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":4}"} 
+[2017-05-01 15:55:34,860]  INFO -  {"performedBy":"admin","action":"deleted","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"T\",\"callbackURL\":null}"} 
+[2017-05-01 15:55:41,622]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"K\",\"callbackURL\":null}"} 
+[2017-05-01 15:56:01,682]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"K\",\"tier\":\"Unlimited\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":5}"} 
+[2017-05-01 16:18:02,688]  INFO -  {"performedBy":"admin","action":"deleted","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"mobilepay\",\"callbackURL\":null}"} 
+[2017-05-01 16:18:11,501]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"mobilepay\",\"callbackURL\":null}"} 
+[2017-05-01 16:18:30,445]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"mobilepay\",\"tier\":\"Unlimited\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":6}"} 
+[2017-05-01 16:18:43,601]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"mobilepay\",\"tier\":\"Unlimited\",\"provider\":\"admin\",\"api_name\":\"DirectPay\",\"application_id\":6}"} 
+[2017-05-01 16:24:16,469]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:24:16,467+0530] 
+[2017-05-01 16:24:17,083]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"LoginApi\",\"context\":\"\\\/api\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 16:24:17,149]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:24:17,147+0530] 
+[2017-05-01 16:24:17,355]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:24:17,354+0530] 
+[2017-05-01 16:24:17,812]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:24:17,812+0530] 
+[2017-05-01 16:24:18,159]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:24:18,159+0530] 
+[2017-05-01 16:30:09,360]  INFO -  {"performedBy":"admin","action":"deleted","typ":"Subscription","info":"{\"application_name\":\"mobilepay\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":6}"} 
+[2017-05-01 16:30:12,544]  INFO -  {"performedBy":"admin","action":"deleted","typ":"Subscription","info":"{\"application_name\":\"mobilepay\",\"provider\":\"admin\",\"api_name\":\"DirectPay\",\"application_id\":6}"} 
+[2017-05-01 16:30:53,123]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"mobilepay\",\"callbackURL\":null}"} 
+[2017-05-01 16:31:17,334]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"mobilepay\",\"tier\":\"Bronze\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":7}"} 
+[2017-05-01 16:33:17,021]  INFO -  {"performedBy":"admin","action":"deleted","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"mobilepay\",\"callbackURL\":null}"} 
+[2017-05-01 16:33:46,231]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"mobilepay\",\"callbackURL\":null}"} 
+[2017-05-01 16:37:57,485]  INFO -  {"performedBy":"admin","action":"deleted","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"mobilepay\",\"callbackURL\":null}"} 
+[2017-05-01 16:38:04,469]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"pay\",\"callbackURL\":null}"} 
+[2017-05-01 16:39:20,262]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"pay\",\"tier\":\"Bronze\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":9}"} 
