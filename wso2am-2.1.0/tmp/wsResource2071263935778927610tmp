@@ -1,0 +1,49 @@
+<content>
+        <table name="Overview">
+            <field type="text" required="true">
+                <name>Name</name>
+            </field>
+            <field type="text" required="true">
+                <name>ApiBasePath</name>
+            </field>
+            <field type="text" required="true">
+                <name>Summary</name>
+            </field>
+            <field type="text" required="true" readonly="true">
+                <name>ApiBasePath</name>
+            </field>
+            <field type="options">
+                <name label="Type">Type</name>
+                <values>
+                    <value>How To</value>
+                    <value>Samples and SDK</value>
+                    <value>Public Forum</value>
+                    <value>Support Forum</value>
+                    <value>API Message Formats</value>
+                    <value>Other</value>
+                </values>
+            </field>
+            <field type="options">
+                <name label="Source">Source Type</name>
+                <values>
+                    <value>In Line</value>
+                    <value>URL</value>
+		    <value>File</value>	
+                </values>
+            </field>
+             <field type="options">
+                  <name label="Visibility">Visibility</name>
+                  <values>
+                       <value>API_Level</value>
+                       <value>Private</value>
+            	       <value>Shared</value>
+                  </values>
+             </field>
+            <field type="text" readonly="true">
+                <name>Source URL</name>
+            </field>
+	    <field type="text" readonly="true">
+                <name>File Path</name>
+            </field>
+        </table>
+    </content>

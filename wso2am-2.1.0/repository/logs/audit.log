@@ -1,0 +1,26 @@
+[2017-05-01 00:17:54,557]  INFO -  Initiator : admin@carbon.super | Action : Add Role | Target : subscriber | Data : { Users : [] Permissions : [org.wso2.carbon.user.api.Permission@6bc12509, org.wso2.carbon.user.api.Permission@4120d840] } | Result : Success  
+[2017-05-01 00:22:12,935]  INFO -  Initiator : admin@carbon.super | Action : Add User | Target : apisubscriber | Data : { Roles :subscriber, } | Result : Success  
+[2017-05-01 00:26:31,276]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:26:31,276+0530] 
+[2017-05-01 00:26:33,593]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:26:33,593+0530] 
+[2017-05-01 00:42:39,288]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:42:39,288+0530] 
+[2017-05-01 00:46:28,268]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:46:28,268+0530] 
+[2017-05-01 00:46:28,324]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"Register\",\"context\":\"\\\/register\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 00:46:28,365]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:46:28,365+0530] 
+[2017-05-01 00:46:28,396]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:46:28,396+0530] 
+[2017-05-01 00:46:28,489]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:46:28,489+0530] 
+[2017-05-01 00:46:28,550]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:46:28,550+0530] 
+[2017-05-01 00:55:03,085]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:03,085+0530] 
+[2017-05-01 00:55:03,130]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"Register\",\"context\":\"\\\/register\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 00:55:03,146]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:03,146+0530] 
+[2017-05-01 00:55:03,179]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:03,179+0530] 
+[2017-05-01 00:55:03,274]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:03,274+0530] 
+[2017-05-01 00:55:03,320]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:03,320+0530] 
+[2017-05-01 00:55:07,226]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:07,226+0530] 
+[2017-05-01 00:55:07,257]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:07,257+0530] 
+[2017-05-01 00:55:07,311]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"Register\",\"context\":\"\\\/register\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2017-05-01 00:55:07,327]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:07,327+0530] 
+[2017-05-01 00:55:07,356]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:07,355+0530] 
+[2017-05-01 00:55:07,449]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:07,449+0530] 
+[2017-05-01 00:55:07,500]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:55:07,500+0530] 
+[2017-05-01 00:59:26,603]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 00:59:26,603+0530] from IP address  
+[2017-05-01 11:46:30,554]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:46:30,553+0530] 

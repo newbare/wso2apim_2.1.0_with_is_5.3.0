@@ -1,0 +1,15 @@
+[2017-05-01 00:57:17,831]  INFO {AUDIT_LOG}-  Initiator : wso2.system.user | Action : Add BPS Profile | Data : { "Profile Name" : "embeded_bps","Manager Host URL" : "https://localhost:9443/services","Worker Host URL" : "https://localhost:9443/services","User" : "admin" } | Result :  Success  
+[2017-05-01 01:31:57,595]  INFO {AUDIT_LOG}-  Initiator : wso2.system.user | Action : Update BPS Profile | Data : { "Profile Name" : "embeded_bps","Manager Host URL" : "https://localhost:9446/services","Worker Host URL" : "https://localhost:9446/services","User" : "admin" } | Result :  Success  
+[2017-05-01 01:33:06,745]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 01:33:06,742+0530] 
+[2017-05-01 01:39:20,688]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 01:39:20,687+0530] 
+[2017-05-01 10:33:29,543]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 10:33:29,542+0530] 
+[2017-05-01 10:39:36,589]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 10:39:36,588+0530] 
+[2017-05-01 10:42:02,905]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 10:42:02,898+0530] 
+[2017-05-01 10:42:44,194]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : apicreator | Data : { Roles :Internal/creator, } | Result : Success  
+[2017-05-01 10:48:11,887]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add Role | Target : subscriber | Data : { Users : [] Permissions : [org.wso2.carbon.user.api.Permission@12097111] } | Result : Success  
+[2017-05-01 11:00:04,686]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:00:04,684+0530] 
+[2017-05-01 11:13:09,071]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:13:09,069+0530] 
+[2017-05-01 11:18:21,901]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : apisubscriber | Data : { Roles :Internal/subscriber, } | Result : Success  
+[2017-05-01 11:21:11,674]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add Role | Target : apisubscriber | Data : { Users : [] Permissions : [org.wso2.carbon.user.api.Permission@11a9e4b2, org.wso2.carbon.user.api.Permission@4ff0aefe] } | Result : Success  
+[2017-05-01 11:46:14,160]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:46:14,147+0530] 
+[2017-05-01 11:48:36,603]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:48:36,601+0530] 
