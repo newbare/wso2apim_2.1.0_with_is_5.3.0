@@ -1,0 +1,116 @@
+[2017-05-01 00:57:17,831]  INFO {AUDIT_LOG}-  Initiator : wso2.system.user | Action : Add BPS Profile | Data : { "Profile Name" : "embeded_bps","Manager Host URL" : "https://localhost:9443/services","Worker Host URL" : "https://localhost:9443/services","User" : "admin" } | Result :  Success  
+[2017-05-01 01:31:57,595]  INFO {AUDIT_LOG}-  Initiator : wso2.system.user | Action : Update BPS Profile | Data : { "Profile Name" : "embeded_bps","Manager Host URL" : "https://localhost:9446/services","Worker Host URL" : "https://localhost:9446/services","User" : "admin" } | Result :  Success  
+[2017-05-01 01:33:06,745]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 01:33:06,742+0530] 
+[2017-05-01 01:39:20,688]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 01:39:20,687+0530] 
+[2017-05-01 10:33:29,543]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 10:33:29,542+0530] 
+[2017-05-01 10:39:36,589]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 10:39:36,588+0530] 
+[2017-05-01 10:42:02,905]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 10:42:02,898+0530] 
+[2017-05-01 10:42:44,194]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : apicreator | Data : { Roles :Internal/creator, } | Result : Success  
+[2017-05-01 10:48:11,887]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add Role | Target : subscriber | Data : { Users : [] Permissions : [org.wso2.carbon.user.api.Permission@12097111] } | Result : Success  
+[2017-05-01 11:00:04,686]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:00:04,684+0530] 
+[2017-05-01 11:13:09,071]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:13:09,069+0530] 
+[2017-05-01 11:18:21,901]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : apisubscriber | Data : { Roles :Internal/subscriber, } | Result : Success  
+[2017-05-01 11:21:11,674]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add Role | Target : apisubscriber | Data : { Users : [] Permissions : [org.wso2.carbon.user.api.Permission@11a9e4b2, org.wso2.carbon.user.api.Permission@4ff0aefe] } | Result : Success  
+[2017-05-01 11:46:14,160]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:46:14,147+0530] 
+[2017-05-01 11:48:36,603]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 11:48:36,601+0530] 
+[2017-05-01 12:20:15,795]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:20:15,794+0530] 
+[2017-05-01 12:20:30,167]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : hasinitg | Data : { Roles : } | Result : Success  
+[2017-05-01 12:23:22,735]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Delete User | Target : hasinitg | Data : {  } | Result : Success  
+[2017-05-01 12:23:35,934]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : hasinitg | Data : { Roles : } | Result : Success  
+[2017-05-01 12:33:37,640]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hsinitg[-1]' at [2017-05-01 12:33:37,638+0530] 
+[2017-05-01 12:33:46,496]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 12:33:46,495+0530] 
+[2017-05-01 12:33:50,180]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 12:33:50,179+0530] 
+[2017-05-01 12:33:56,279]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:33:56,277+0530] 
+[2017-05-01 12:34:47,530]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 12:34:47,529+0530] 
+[2017-05-01 13:03:43,958]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 13:03:43,944+0530] 
+[2017-05-01 14:02:04,125]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:04,124+0530] 
+[2017-05-01 14:02:23,479]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 14:02:23,479+0530] 
+[2017-05-01 15:21:53,651]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:21:53,649+0530] 
+[2017-05-01 15:25:27,060]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:25:27,060+0530] 
+[2017-05-01 15:47:54,946]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 15:47:54,945+0530] 
+[2017-05-01 16:15:52,452]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:15:52,450+0530] 
+[2017-05-01 16:16:09,960]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:16:09,960+0530] 
+[2017-05-01 16:16:10,078]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_K_SANDBOX } | Result : Success  
+[2017-05-01 16:16:10,105]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { admin_K_SANDBOX } | Result : Success  
+[2017-05-01 16:16:10,505]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { admin_K_SANDBOX } | Result : Success  
+[2017-05-01 16:19:04,295]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_mobilepay_PRODUCTION } | Result : Success  
+[2017-05-01 16:19:04,310]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 3 | Data : { admin_mobilepay_PRODUCTION } | Result : Success  
+[2017-05-01 16:19:04,321]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 3 | Data : { admin_mobilepay_PRODUCTION } | Result : Success  
+[2017-05-01 16:21:05,222]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:21:05,222+0530] 
+[2017-05-01 16:25:31,558]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 16:25:31,558+0530] 
+[2017-05-01 16:26:57,495]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_mobilepay_SANDBOX } | Result : Success  
+[2017-05-01 16:26:57,510]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { admin_mobilepay_SANDBOX } | Result : Success  
+[2017-05-01 16:26:57,521]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { admin_mobilepay_SANDBOX } | Result : Success  
+[2017-05-01 16:38:18,100]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_pay_PRODUCTION } | Result : Success  
+[2017-05-01 16:38:18,113]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 5 | Data : { admin_pay_PRODUCTION } | Result : Success  
+[2017-05-01 16:38:18,124]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 5 | Data : { admin_pay_PRODUCTION } | Result : Success  
+[2017-05-01 17:03:05,255]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 17:03:05,255+0530] 
+[2017-05-01 17:05:26,237]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 17:05:26,237+0530] 
+[2017-05-01 17:06:08,248]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 17:06:08,248+0530] 
+[2017-05-01 17:06:22,265]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 17:06:22,265+0530] 
+[2017-05-01 17:06:58,248]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 17:06:58,247+0530] 
+[2017-05-01 17:09:21,648]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged out at [2017-05-01 17:09:21,0647] 
+[2017-05-01 17:09:59,948]  INFO {AUDIT_LOG}-  'apicreator@carbon.super [-1234]' logged in at [2017-05-01 17:09:59,947+0530] 
+[2017-05-01 17:10:20,052]  INFO {AUDIT_LOG}-  'apicreator@carbon.super [-1234]' logged out at [2017-05-01 17:10:20,0051] 
+[2017-05-01 17:10:25,651]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 17:10:25,651+0530] 
+[2017-05-01 17:10:55,941]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : hasinitg | Data : {  } | Result : Success  
+[2017-05-01 17:11:01,635]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged out at [2017-05-01 17:11:01,0634] 
+[2017-05-01 17:11:11,205]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 17:11:11,204+0530] 
+[2017-05-01 17:11:23,337]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 17:11:23,337+0530] 
+[2017-05-01 17:11:46,667]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged out at [2017-05-01 17:11:46,0667] 
+[2017-05-01 17:11:59,596]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 17:11:59,596+0530] 
+[2017-05-01 17:12:15,522]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-01 17:12:15,521+0530] 
+[2017-05-01 17:12:29,495]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 17:12:29,494+0530] 
+[2017-05-01 17:16:51,373]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 17:16:51,373+0530] 
+[2017-05-01 17:17:17,419]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_A_PRODUCTION } | Result : Success  
+[2017-05-01 17:17:17,427]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 6 | Data : { admin_A_PRODUCTION } | Result : Success  
+[2017-05-01 17:17:17,441]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 6 | Data : { admin_A_PRODUCTION } | Result : Success  
+[2017-05-01 18:10:44,172]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 18:10:44,171+0530] 
+[2017-05-01 18:10:46,915]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 18:10:46,915+0530] 
+[2017-05-01 18:13:12,077]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_B_PRODUCTION } | Result : Success  
+[2017-05-01 18:13:12,085]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 7 | Data : { admin_B_PRODUCTION } | Result : Success  
+[2017-05-01 18:13:12,091]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 7 | Data : { admin_B_PRODUCTION } | Result : Success  
+[2017-05-01 19:28:37,547]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 19:28:37,547+0530] 
+[2017-05-01 19:28:39,806]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 19:28:39,806+0530] 
+[2017-05-01 19:49:52,393]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 19:49:52,393+0530] 
+[2017-05-01 19:49:52,626]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_C_PRODUCTION } | Result : Success  
+[2017-05-01 19:49:52,636]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 8 | Data : { admin_C_PRODUCTION } | Result : Success  
+[2017-05-01 19:49:52,646]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 8 | Data : { admin_C_PRODUCTION } | Result : Success  
+[2017-05-01 20:13:00,188]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 20:13:00,187+0530] 
+[2017-05-01 20:15:01,313]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_E_PRODUCTION } | Result : Success  
+[2017-05-01 20:15:01,320]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 9 | Data : { admin_E_PRODUCTION } | Result : Success  
+[2017-05-01 20:15:01,328]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 9 | Data : { admin_E_PRODUCTION } | Result : Success  
+[2017-05-01 20:16:50,530]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_user_name_15_second_valid_time_PRODUCTION } | Result : Success  
+[2017-05-01 20:16:50,538]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 10 | Data : { admin_user_name_15_second_valid_time_PRODUCTION } | Result : Success  
+[2017-05-01 20:16:50,545]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 10 | Data : { admin_user_name_15_second_valid_time_PRODUCTION } | Result : Success  
+[2017-05-01 20:36:00,263]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 20:36:00,260+0530] 
+[2017-05-01 20:39:02,143]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_user_name_25_second_valid_time_PRODUCTION } | Result : Success  
+[2017-05-01 20:39:02,151]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 11 | Data : { admin_user_name_25_second_valid_time_PRODUCTION } | Result : Success  
+[2017-05-01 20:39:02,158]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 11 | Data : { admin_user_name_25_second_valid_time_PRODUCTION } | Result : Success  
+[2017-05-01 20:47:47,076]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_Testing30second_PRODUCTION } | Result : Success  
+[2017-05-01 20:47:47,097]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 12 | Data : { admin_Testing30second_PRODUCTION } | Result : Success  
+[2017-05-01 20:47:47,107]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 12 | Data : { admin_Testing30second_PRODUCTION } | Result : Success  
+[2017-05-01 20:50:24,157]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 20:50:24,156+0530] 
+[2017-05-01 21:20:34,320]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 21:20:34,319+0530] 
+[2017-05-01 21:24:20,026]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 21:24:20,026+0530] 
+[2017-05-01 21:24:23,337]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 21:24:23,336+0530] 
+[2017-05-01 21:37:56,213]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 21:37:56,213+0530] 
+[2017-05-01 21:40:44,182]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 21:40:44,182+0530] 
+[2017-05-01 21:41:57,725]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 21:41:57,724+0530] 
+[2017-05-01 21:42:13,693]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_Testing30second_SANDBOX } | Result : Success  
+[2017-05-01 21:42:13,702]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 13 | Data : { admin_Testing30second_SANDBOX } | Result : Success  
+[2017-05-01 21:42:13,711]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 13 | Data : { admin_Testing30second_SANDBOX } | Result : Success  
+[2017-05-01 21:55:28,943]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_Test_60_secon_PRODUCTION } | Result : Success  
+[2017-05-01 21:55:28,953]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 14 | Data : { admin_Test_60_secon_PRODUCTION } | Result : Success  
+[2017-05-01 21:55:28,976]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 14 | Data : { admin_Test_60_secon_PRODUCTION } | Result : Success  
+[2017-05-01 22:25:44,285]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 22:25:44,285+0530] 
+[2017-05-01 22:28:07,528]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 22:28:07,528+0530] 
+[2017-05-01 22:28:50,092]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 22:28:50,092+0530] 
+[2017-05-01 22:41:52,991]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 22:41:52,991+0530] 
+[2017-05-01 22:41:53,316]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 22:41:53,315+0530] 
+[2017-05-01 22:42:45,796]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-01 22:42:45,809]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-01 22:42:45,832]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-01 22:46:08,147]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 22:46:08,147+0530] 
+[2017-05-01 23:04:42,234]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 23:04:42,232+0530] from IP address 127.0.0.1 
+[2017-05-01 23:18:32,909]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-01 23:18:32,908+0530] 

@@ -1,0 +1,108 @@
+[2017-05-02 07:41:53,210]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 07:41:53,208+0530] 
+[2017-05-02 09:53:46,411]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 09:53:46,410+0530] 
+[2017-05-02 09:53:46,638]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 09:53:46,637+0530] 
+[2017-05-02 10:03:24,969]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 10:03:24,968+0530] 
+[2017-05-02 10:36:51,459]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 10:36:51,458+0530] 
+[2017-05-02 10:44:36,564]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 10:44:36,563+0530] 
+[2017-05-02 10:44:36,709]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 10:44:36,708+0530] 
+[2017-05-02 10:46:45,951]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 10:46:45,950+0530] 
+[2017-05-02 11:01:24,183]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_netTest_PRODUCTION } | Result : Success  
+[2017-05-02 11:01:24,194]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 16 | Data : { admin_netTest_PRODUCTION } | Result : Success  
+[2017-05-02 11:01:24,312]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 16 | Data : { admin_netTest_PRODUCTION } | Result : Success  
+[2017-05-02 11:02:27,353]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_netTest_SANDBOX } | Result : Success  
+[2017-05-02 11:02:27,385]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 17 | Data : { admin_netTest_SANDBOX } | Result : Success  
+[2017-05-02 11:02:27,394]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 17 | Data : { admin_netTest_SANDBOX } | Result : Success  
+[2017-05-02 11:57:10,662]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 11:57:10,660+0530] 
+[2017-05-02 11:57:10,752]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 11:57:10,752+0530] 
+[2017-05-02 12:57:43,220]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 12:57:43,220+0530] 
+[2017-05-02 14:36:34,042] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-05-02 14:36:34,0041] from IP address null while trying to authenticate access to service IdentityProviderMgtService 
+[2017-05-02 14:36:47,659]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 14:36:47,658+0530] 
+[2017-05-02 14:37:10,657]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : add | Target : paymedia@carbon.super | Data : { paymediaidp } | Result : Success  
+[2017-05-02 14:42:54,849]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : update | Target : paymediaidp | Data : { paymedia@carbon.super } | Result : Success  
+[2017-05-02 14:44:26,202]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : update | Target : paymediaidp | Data : { paymedia@carbon.super } | Result : Success  
+[2017-05-02 14:44:46,353]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : update | Target : paymediaidp | Data : { paymedia@carbon.super } | Result : Success  
+[2017-05-02 14:49:14,723]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : supun | Data : { Roles : } | Result : Success  
+[2017-05-02 14:51:44,330]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : update | Target : paymediaidp | Data : { paymedia@carbon.super } | Result : Success  
+[2017-05-02 15:19:46,186]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 15:19:46,185+0530] 
+[2017-05-02 15:19:46,284]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 15:19:46,284+0530] 
+[2017-05-02 15:24:45,730]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 15:24:45,730+0530] 
+[2017-05-02 16:09:21,279]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 16:09:21,279+0530] 
+[2017-05-02 16:15:38,375]  INFO {AUDIT_LOG}-  Initiator : admin | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "7bbdf1c6-a613-4654-9bfb-d73b8986103e","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "wso2_sp_dashboard","RequestType" : "samlsso","RelyingParty" : "wso2.my.dashboard","AuthenticatedIdP" : "LOCAL" } | Result : Success  
+[2017-05-02 16:15:38,445]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "7bbdf1c6-a613-4654-9bfb-d73b8986103e","AuthenticatedUser" : "admin@carbon.super","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "carbon.super","RequestType" : "samlsso","RelyingParty" : "wso2.my.dashboard","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDkzNzIxOTM4Mzc1MzAwMCwiaWF0IjoxNDkzNzIxOTM4Mzc1LCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-05-02 16:15:39,584]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 16:15:39,583+0530] 
+[2017-05-02 16:15:39,584]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Login | Target : SAML2SSOAuthenticator | Data : {  } | Result : Success  
+[2017-05-02 16:17:05,973]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Logout | Target : SAML2SSOAuthenticator | Data : {  } | Result : Success  
+[2017-05-02 16:17:06,174]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Logout | Target : LOCAL | Data : { "ContextIdentifier" : "42aeb2af-861b-4c36-aee4-3ae15cfebee2","LoggedOutUser" : "admin@carbon.super","LoggedOutUserTenantDomain" : "carbon.super","ServiceProviderName" : "wso2_sp_dashboard","RequestType" : "samlsso","RelyingParty" : "wso2.my.dashboard","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDkzNzIxOTM4Mzc1MzAwMCwiaWF0IjoxNDkzNzIxOTM4Mzc1LCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-05-02 16:17:15,662]  INFO {AUDIT_LOG}-  Initiator : hasinitg | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "6b27d16e-a8b5-4285-b158-39c6359a9cbe","AuthenticatedUser" : "hasinitg","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "wso2_sp_dashboard","RequestType" : "samlsso","RelyingParty" : "wso2.my.dashboard","AuthenticatedIdP" : "LOCAL" } | Result : Success  
+[2017-05-02 16:17:15,676]  INFO {AUDIT_LOG}-  Initiator : hasinitg@carbon.super | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "6b27d16e-a8b5-4285-b158-39c6359a9cbe","AuthenticatedUser" : "hasinitg@carbon.super","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "carbon.super","RequestType" : "samlsso","RelyingParty" : "wso2.my.dashboard","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDkzNzIyMDM1NjYyMzAwMCwiaWF0IjoxNDkzNzIyMDM1NjYyLCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-05-02 16:17:15,874]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'hasinitg[-1234]' at [2017-05-02 16:17:15,874+0530] 
+[2017-05-02 16:17:15,875]  INFO {AUDIT_LOG}-  Initiator : hasinitg@carbon.super | Action : Login | Target : SAML2SSOAuthenticator | Data : {  } | Result : Failed  
+[2017-05-02 16:17:16,005]  INFO {AUDIT_LOG}-  Initiator : hasinitg@carbon.super | Action : Logout | Target : LOCAL | Data : { "ContextIdentifier" : "13a0800f-2fe3-4c0c-ab18-c5d40283827b","LoggedOutUser" : "hasinitg@carbon.super","LoggedOutUserTenantDomain" : "carbon.super","ServiceProviderName" : "wso2_sp_dashboard","RequestType" : "samlsso","RelyingParty" : "wso2.my.dashboard","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDkzNzIyMDM1NjYyMzAwMCwiaWF0IjoxNDkzNzIyMDM1NjYyLCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-05-02 16:17:23,486]  INFO {AUDIT_LOG}-  Initiator : admin | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "34e4a449-f64a-4a15-a07e-8deb325fdcd0","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "wso2_sp_dashboard","RequestType" : "samlsso","RelyingParty" : "wso2.my.dashboard","AuthenticatedIdP" : "LOCAL" } | Result : Success  
+[2017-05-02 16:17:23,491]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "34e4a449-f64a-4a15-a07e-8deb325fdcd0","AuthenticatedUser" : "admin@carbon.super","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "carbon.super","RequestType" : "samlsso","RelyingParty" : "wso2.my.dashboard","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDkzNzIyMDQzNDg2MzAwMCwiaWF0IjoxNDkzNzIyMDQzNDg2LCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-05-02 16:17:23,676]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 16:17:23,676+0530] 
+[2017-05-02 16:17:23,677]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Login | Target : SAML2SSOAuthenticator | Data : {  } | Result : Success  
+[2017-05-02 17:26:58,352]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : update | Target : paymediaidp | Data : { paymedia@carbon.super } | Result : Success  
+[2017-05-02 17:47:12,578]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 17:47:12,578+0530] 
+[2017-05-02 17:47:38,715]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { paymedia } | Result : Success  
+[2017-05-02 17:52:54,411]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 18 | Data : { paymedia } | Result : Success  
+[2017-05-02 17:56:53,637]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 17:57:40,278]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 18:05:36,389]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 18:10:01,176]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 18:10:31,836]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 18:13:15,732]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 18:14:02,307]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 18:14:36,811]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 18:43:03,091]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 18:43:03,091+0530] 
+[2017-05-02 18:43:19,827]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 19:48:41,987]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 19:48:41,986+0530] 
+[2017-05-02 21:22:20,634]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 21:22:20,633+0530] 
+[2017-05-02 21:23:07,563]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 21:45:36,806]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 21:45:36,805+0530] 
+[2017-05-02 21:54:30,313]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 21:55:47,385]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 22:05:43,059]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 22:06:58,870]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 22:07:36,795]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 22:15:28,631]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 22:29:57,579]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 22:33:05,361]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 15 | Data : { admin_Test_unexpire_PRODUCTION } | Result : Success  
+[2017-05-02 22:33:44,295]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 22:33:44,294+0530] 
+[2017-05-02 22:33:48,102]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 22:33:48,101+0530] 
+[2017-05-02 22:35:18,698]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 22:35:18,725]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 22:35:18,733]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 22:37:45,178]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 22:37:45,178+0530] 
+[2017-05-02 22:38:22,409]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 22:42:35,788]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 22:43:15,945]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 22:43:42,786]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 22:44:16,286]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 22:56:06,495]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : supun1 | Data : { Roles : } | Result : Success  
+[2017-05-02 23:00:37,011]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : other_username | Data : { Roles : } | Result : Success  
+[2017-05-02 23:02:15,650]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-05-02 23:02:15,650+0530] 
+[2017-05-02 23:02:42,829]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:05:20,430]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : other_username | Data : {  } | Result : Success  
+[2017-05-02 23:07:33,418]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:13:38,187]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:14:10,315]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:14:58,399]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:15:30,663]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:16:20,412]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:18:48,168]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : other_username | Data : {  } | Result : Success  
+[2017-05-02 23:19:50,839]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : other_username | Data : {  } | Result : Success  
+[2017-05-02 23:20:32,987]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : other_username | Data : {  } | Result : Success  
+[2017-05-02 23:21:34,958]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:21:39,469]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : other_username | Data : {  } | Result : Success  
+[2017-05-02 23:21:59,042]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : other_username | Data : {  } | Result : Success  
+[2017-05-02 23:25:54,604]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:28:51,518]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : update | Target : paymediaidp | Data : { paymedia@carbon.super } | Result : Success  
+[2017-05-02 23:29:00,892]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : delete | Target : paymediaidp@carbon.super | Data : { null } | Result : Success  
+[2017-05-02 23:33:12,370]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:49:45,719]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:51:28,128]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:52:09,267]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:52:39,599]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:53:24,974]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  
+[2017-05-02 23:55:03,450]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 19 | Data : { admin_Test60_PRODUCTION } | Result : Success  

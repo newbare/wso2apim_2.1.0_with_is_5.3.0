@@ -120,8 +120,7 @@
                 <name>jdbc/WSO2REG_DB</name>
             </jndiConfig>
             <definition type="RDBMS">
-                <configuration>
-        <url>jdbc:mysql://localhost:3306/registry?autoReconnect=true&amp;relaxAutoCommit=true&amp;useSSL=false&amp;</url>
+                <configuration>  <url>jdbc:mysql://localhost:3306/registry?autoReconnect=true&amp;relaxAutoCommit=true&amp;useSSL=false&amp;</url>
                     <username>apiuser</username>
                     <password>apimanager</password>
                     <driverClassName>com.mysql.jdbc.Driver</driverClassName>
@@ -141,8 +140,7 @@
                 <name>jdbc/WSO2UM_DB</name>
             </jndiConfig>
             <definition type="RDBMS">
-                <configuration>
-           <url>jdbc:mysql://localhost:3306/userstore?autoReconnect=true&amp;relaxAutoCommit=true&amp;useSSL=false&amp;
+                <configuration>   <url>jdbc:mysql://localhost:3306/userstore?autoReconnect=true&amp;relaxAutoCommit=true&amp;useSSL=false&amp;
                     </url>
                     <username>apiuser</username>
                     <password>apimanager</password>

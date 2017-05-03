@@ -1,0 +1,4 @@
+[2017-05-02 11:00:43,636]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"netTest\",\"callbackURL\":null}"} 
+[2017-05-02 11:00:53,903]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"netTest\",\"tier\":\"Unlimited\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":19}"} 
+[2017-05-02 22:34:51,384]  INFO -  {"performedBy":"admin","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"Test60\",\"callbackURL\":null}"} 
+[2017-05-02 22:35:04,974]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"Test60\",\"tier\":\"Bronze\",\"provider\":\"admin\",\"api_name\":\"LoginApi\",\"application_id\":20}"} 

@@ -26,6 +26,8 @@
     <enableCache>true</enableCache>
     <registryRoot>/</registryRoot>
 
+	
+	
     <dbConfig name="wso2registry">
         <dataSource>jdbc/WSO2CarbonDB</dataSource>
     </dbConfig>
